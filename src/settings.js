@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["sprPlayer","sprEnemy"],collisionMatrix:[[false,true],[true,false]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/Scenes/GamePlay.fire",orientation:"",jsList:[]};
